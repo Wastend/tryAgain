@@ -14,7 +14,7 @@ def galya():
 
 
 def zhenya():
-    pass
+    print('Меня зовут Женя')
 
 
 if __name__ == 'main':
