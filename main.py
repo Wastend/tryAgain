@@ -20,7 +20,8 @@ def zhenya():
 def test_github():
     print('Galya')
     print('Zhenya')
-    print('third')
+    we = 'love'
+
 
 if __name__ == 'main':
     main()
