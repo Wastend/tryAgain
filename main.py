@@ -17,5 +17,8 @@ def zhenya():
     print('Меня зовут Женя')
 
 
+def test_github():
+    pass
+
 if __name__ == 'main':
     main()
