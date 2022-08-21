@@ -18,7 +18,7 @@ def zhenya():
 
 
 def test_github():
-    pass
+    print('zhenya')
 
 if __name__ == 'main':
     main()
