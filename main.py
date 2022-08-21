@@ -18,8 +18,8 @@ def zhenya():
 
 
 def test_github():
-    print('galya')
-    print('zhenya')
+    print('Galya')
+    print('Zhenya')
 
 if __name__ == 'main':
     main()
